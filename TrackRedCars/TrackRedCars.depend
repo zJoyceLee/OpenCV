@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419164253 source:/home/joyce/Codes/cpp/ComputationalThinking/TrackRedCars/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<opencv2/opencv.hpp>
+
