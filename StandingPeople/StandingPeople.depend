@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1420720555 source:/home/joyce/Codes/cpp/ComputationalThinking/StandingPeople/main.cpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/gpu/gpu.hpp>
+
+1418987770 source:/home/joyce/Codes/cpp/ComputationalThinking/StandingPeople/temp.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/gpu/gpu.hpp>
+	<stdio.h>
+
